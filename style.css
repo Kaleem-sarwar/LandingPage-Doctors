@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* ------- */
+.navbar-nav{
+    background: #F3F7FA;
+}
+.btns button{
+    border-radius: 30px;
+    font-size: x-small;
+}
+.navbar-nav ul{
+    font-size: large;
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.icon{
+    font-size: 30px;
+}
+/* ----------- */
+.nurse-con{
+    background: #F3F7FA;
+}
+.nurse-con{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.nurse-con p{
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+    font-style: normal;   
+}
+.globe{
+  margin: 8% 0% 0% 4%;
+}
+.globe p{
+    font-size:small;
+}
+.globe h1{
+    font-size: 60px;
+    color: rgb(63, 63, 254);
+}
+.globe button{
+    font-size:xx-small;
+    background: #000;
+    color: white;
+    border-radius: 25px;
+    padding: 7px;
+}
+.vertical-line {
+    border-left: 2px solid black;
+    height: 70px;
+    width: 0; 
+  }
+  
+
+/* ----------- */
+.borders h4{
+    font-size:30px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(63, 63, 254);
+}
+.borders p{
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.borders button{
+    font-size: x-small;
+    border-radius: 20px;
+}
+.wander{
+    margin: 8%;
+}
+.vertical-line{
+    color: blue;
+    border-left: 2px solid;
+}
+/* ------ */
+.key-con{
+    background: #EDF4F9;
+}
+.key-con p{
+    font-size: small;
+}
+.key-con h1{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(58, 27, 230);
+}
+/* ---- */
+.mid-con{
+    margin-top: 10%;
+}
+.works h1{
+    color: rgb(58, 27, 230);
+    font-weight: 700;
+}
+.works p{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-size: small;
+    color:#605e5e;
+ 
+}
+.ready{
+    background: #EDF4F9;
+}  
+.ready h1{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(58, 27, 230);
+}
+.ready p{
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* ----- */
+.feel{
+    background: #EDF4F9;
+}
+.task h1{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(58, 27, 230);
+}
+.task p{
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.about h1{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(58, 27, 230);
+}
+.about p{
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.about span p{
+    color: black;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+/* ---- */
+.line{
+    border-top: 2px solid rgb(234, 229, 229); 
+
+}
+.latest h1{
+    color: rgb(55, 55, 247);
+    font-weight: 700;
+}
+.works h1{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(58, 27, 230);
+}
+.how{
+    margin-top: 12%;
+}
+.mid-con h3{
+    margin-top: 10%;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.mid-con p{
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.works h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.works p{
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.card h6{
+    font-size: smaller;  
+    margin: 2%;
+}
+.card p{
+    font-size:x-small; 
+    margin: 2% 
+}
+.card button{
+    border-color: rgb(232, 227, 227);
+    font-size: smaller;
+    font-weight: 500;
+    color: black;
+    border-radius: 50px;
+}
+.carsol{
+    font-size: smaller;
+}
+.nav{
+    font-size: smaller;
+    font-weight: 600;
+}
+.address p{
+    font-size: small;
+    margin: 5px;
+
+}
+.copyright{
+    background: #EDF4F9;
+}
